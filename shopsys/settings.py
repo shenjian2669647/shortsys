@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'shopsys.apps.catalog',
+    'shopsys.apps.cart',
 )
 
 MIDDLEWARE_CLASSES = (
